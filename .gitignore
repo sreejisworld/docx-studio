@@ -1,0 +1,18 @@
+# OS cruft
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors
+.vscode/
+.idea/
+*.swp
+
+# Claude Code
+.claude/
+
+# Scratch output from local testing
+_test/
+_fx/
+_fx_out/
+*.docx
